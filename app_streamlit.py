@@ -40,7 +40,7 @@ import numpy as np
 # pip install scikit-learn==1.3.2
 
 # 01 --------------------------Load the model-------------------------------------------
-clf = load('D:/EntornoVirtualPython/entorno1/Pruebas/Datasets/Modelo/modelo_rfchurn_tunning.joblib')
+clf = load('modelo_rfchurn_tunning.joblib')
 
 
 
